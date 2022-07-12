@@ -1,0 +1,177 @@
+{
+    "data": {
+        "axie": {
+            "id": "4017",
+            "image": "https://assets.axieinfinity.com/axies/4017/axie/axie-full-transparent.png",
+            "class": "Aquatic",
+            "name": "Axie #4017",
+            "genes": "0x40000000063094231023094214420904106018c200250846106218c20c250804",
+            "owner": "0x5926484e6426201050a41f6c282bf75be1f0a4e4",
+            "birthDate": 1526209123,
+            "bodyShape": "Normal",
+            "sireId": 3545,
+            "sireClass": "Plant",
+            "matronId": 3809,
+            "matronClass": "Aquatic",
+            "stage": 4,
+            "title": "",
+            "breedCount": 2,
+            "level": 1,
+            "figure": {
+                "atlas": "https://assets.axieinfinity.com/axies/4017/axie/axie.atlas",
+                "model": "https://assets.axieinfinity.com/axies/4017/axie/axie.json",
+                "image": "https://assets.axieinfinity.com/axies/4017/axie/axie.png",
+                "__typename": "AxieFigure"
+            },
+            "parts": [
+                {
+                    "id": "eyes-sleepless",
+                    "name": "Sleepless",
+                    "class": "Aquatic",
+                    "type": "Eyes",
+                    "specialGenes": null,
+                    "stage": 1,
+                    "abilities": [],
+                    "__typename": "AxiePart"
+                },
+                {
+                    "id": "ears-bubblemaker",
+                    "name": "Bubblemaker",
+                    "class": "Aquatic",
+                    "type": "Ears",
+                    "specialGenes": null,
+                    "stage": 1,
+                    "abilities": [],
+                    "__typename": "AxiePart"
+                },
+                {
+                    "id": "back-goldfish",
+                    "name": "Goldfish",
+                    "class": "Aquatic",
+                    "type": "Back",
+                    "specialGenes": null,
+                    "stage": 1,
+                    "abilities": [
+                        {
+                            "id": "aquatic-back-06",
+                            "name": "Swift Escape",
+                            "attack": 105,
+                            "defense": 20,
+                            "energy": 1,
+                            "description": "Apply Speed+ to this Axie for 2 rounds when attacked.",
+                            "backgroundUrl": "https://cdn.axieinfinity.com/game/cards/base/aquatic-back-06.png",
+                            "effectIconUrl": "https://cdn.axieinfinity.com/game/cards/effect-icons/speed-up.png",
+                            "__typename": "AxieCardAbility"
+                        }
+                    ],
+                    "__typename": "AxiePart"
+                },
+                {
+                    "id": "mouth-kotaro",
+                    "name": "Kotaro",
+                    "class": "Reptile",
+                    "type": "Mouth",
+                    "specialGenes": null,
+                    "stage": 1,
+                    "abilities": [
+                        {
+                            "id": "reptile-mouth-04",
+                            "name": "Kotaro bite",
+                            "attack": 85,
+                            "defense": 30,
+                            "energy": 1,
+                            "description": "Gain 1 energy if target is faster than this Axie.",
+                            "backgroundUrl": "https://cdn.axieinfinity.com/game/cards/base/reptile-mouth-04.png",
+                            "effectIconUrl": "https://cdn.axieinfinity.com/game/cards/effect-icons/gain-energy.png",
+                            "__typename": "AxieCardAbility"
+                        }
+                    ],
+                    "__typename": "AxiePart"
+                },
+                {
+                    "id": "horn-little-branch",
+                    "name": "Little Branch",
+                    "class": "Beast",
+                    "type": "Horn",
+                    "specialGenes": null,
+                    "stage": 1,
+                    "abilities": [
+                        {
+                            "id": "beast-horn-02",
+                            "name": "Branch Charge",
+                            "attack": 125,
+                            "defense": 25,
+                            "energy": 1,
+                            "description": "Increase critical chance by 20% if comboed with two plant cards. ",
+                            "backgroundUrl": "https://cdn.axieinfinity.com/game/cards/base/beast-horn-02.png",
+                            "effectIconUrl": "https://cdn.axieinfinity.com/game/cards/effect-icons/critical.png",
+                            "__typename": "AxieCardAbility"
+                        }
+                    ],
+                    "__typename": "AxiePart"
+                },
+                {
+                    "id": "tail-carrot",
+                    "name": "Carrot",
+                    "class": "Plant",
+                    "type": "Tail",
+                    "specialGenes": null,
+                    "stage": 1,
+                    "abilities": [
+                        {
+                            "id": "plant-tail-02",
+                            "name": "Carrot Hammer",
+                            "attack": 80,
+                            "defense": 40,
+                            "energy": 1,
+                            "description": "Gain 1 energy if this Axie's shield breaks. Can only trigger once per round.",
+                            "backgroundUrl": "https://cdn.axieinfinity.com/game/cards/base/plant-tail-02.png",
+                            "effectIconUrl": "https://cdn.axieinfinity.com/game/cards/effect-icons/gain-energy.png",
+                            "__typename": "AxieCardAbility"
+                        }
+                    ],
+                    "__typename": "AxiePart"
+                }
+            ],
+            "stats": {
+                "hp": 48,
+                "speed": 50,
+                "skill": 35,
+                "morale": 31,
+                "__typename": "AxieStats"
+            },
+            "auction": null,
+            "ownerProfile": {
+                "name": "Revy",
+                "__typename": "PublicProfile"
+            },
+            "battleInfo": {
+                "banned": false,
+                "banUntil": null,
+                "level": 0,
+                "__typename": "AxieBattleInfo"
+            },
+            "children": [
+                {
+                    "id": "4100",
+                    "name": "Axie #4100",
+                    "class": "Aquatic",
+                    "image": "https://assets.axieinfinity.com/axies/4100/axie/axie-full-transparent.png",
+                    "title": "",
+                    "stage": 4,
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "20190",
+                    "name": "Axie #20190",
+                    "class": "Aquatic",
+                    "image": "https://assets.axieinfinity.com/axies/20190/axie/axie-full-transparent.png",
+                    "title": "",
+                    "stage": 4,
+                    "__typename": "Axie"
+                }
+            ],
+            "__typename": "Axie"
+        }
+    }
+}

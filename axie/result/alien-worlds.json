@@ -1,0 +1,39 @@
+{
+    "name": "Alien Worlds Binance Mission 1:1",
+    "description": "The Federation is cracking down on high gas fees to help new business prosper. Transport a high gas fee miner to a rehabilitation station.",
+    "image": "https://ipfs.io/ipfs/QmV5udo5Aaxv5tCBf4D7hbAqnf9TRqbptyfFnKFTmw1Pdw",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Series",
+            "value": 1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "CardNumber",
+            "value": 1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "BasePower",
+            "value": 1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "BoostPower",
+            "value": 2
+        },
+        {
+            "trait_type": "EquivPartType",
+            "value": "A"
+        },
+        {
+            "trait_type": "Shine",
+            "value": "Stone"
+        }
+    ]
+}
