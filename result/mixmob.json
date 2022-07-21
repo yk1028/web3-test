@@ -1,0 +1,61 @@
+{
+    "name": "MixMob Masks - 3804 - 21df96",
+    "symbol": "MXM",
+    "image": "https://arweave.net/Rj-6ltRw64i_26rfpZwdIICsGatsEnYzdjV3F9kJcSo?ext=png",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/Rj-6ltRw64i_26rfpZwdIICsGatsEnYzdjV3F9kJcSo?ext=png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "Arokgs18tYqhJ3WhqFyxTv19hsQqShUkPqPVpFJVR4kw",
+                "share": 100
+            }
+        ],
+        "sha256": "21df9619c6f9e00332d910372844fd3236284d514bf5f44298048ab837d1e57d"
+    },
+    "description": "A master A.I. just deleted our culture and locked it away in a hidden vault. It’s time to grab your mask and join the MIXMOB – underground remix resistance force. Our mission – to rescue our stolen NFTs and rechain our culture!",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "JK"
+        },
+        {
+            "trait_type": "body",
+            "value": "Jersey"
+        },
+        {
+            "trait_type": "ears",
+            "value": "Gold-PIG"
+        },
+        {
+            "trait_type": "head",
+            "value": "BULL"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "XX"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Pumpkin"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "3rd-Eye"
+        },
+        {
+            "trait_type": "nose",
+            "value": "CAT"
+        }
+    ],
+    "collection": {
+        "name": "MixMob Masks",
+        "family": "MixMob Masks"
+    }
+}

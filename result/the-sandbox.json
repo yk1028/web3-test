@@ -1,0 +1,25 @@
+{
+    "name": "LAND (-42, 190)",
+    "description": "A LAND is a digital piece of real estate in The Sandbox metaverse that players can buy to build experiences on top of. Once you own a LAND, you will be able to populate it with Games and Assets. Each LAND is a unique (non-fungible) token lying on the public Ethereum blockchain (ERC-721).",
+    "image": "https://api.sandbox.game/lands/44f9ec78-3194-4611-9ab4-f14bfe40feb9/v3/preview-560px-x-560px.webp",
+    "sandbox": {},
+    "properties": [
+        {
+            "trait_type": "Land X",
+            "value": 162,
+            "max_value": 408,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Land Y",
+            "value": 394,
+            "max_value": 408,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "Land Type",
+            "value": "Regular"
+        }
+    ],
+    "external_url": "https://www.sandbox.game/en/lands/44f9ec78-3194-4611-9ab4-f14bfe40feb9/"
+}

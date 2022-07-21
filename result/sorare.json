@@ -1,0 +1,66 @@
+{
+    "name": "Uğur Demirok 2021-22 • Limited 203/1000",
+    "description": "Limited Player Cards are only issued at 1000 editions per season.",
+    "background_color": "f3f2f3",
+    "external_url": "?referrer=opensea",
+    "image": "https://assets.sorare.com/carddata/1ae26224-7758-48cd-8047-eb4c06ffb2af/picture/bb4030403bd1511f4d004777901d88d8.png",
+    "attributes": [
+        {
+            "trait_type": "scarcity",
+            "value": "Limited"
+        },
+        {
+            "trait_type": "club",
+            "value": "Kayserispor"
+        },
+        {
+            "trait_type": "season",
+            "value": "2021-22"
+        },
+        {
+            "trait_type": "position",
+            "value": "Defender"
+        },
+        {
+            "trait_type": "serial_number",
+            "value": 203,
+            "max_value": 1000,
+            "display_type": "number"
+        },
+        {
+            "trait_type": "edition",
+            "value": "classic"
+        },
+        {
+            "trait_type": "jersey",
+            "value": "home"
+        },
+        {
+            "trait_type": "language",
+            "value": "en"
+        },
+        {
+            "trait_type": "print_date",
+            "value": 1646435355,
+            "display_type": "date"
+        },
+        {
+            "trait_type": "level",
+            "value": 0,
+            "max_value": 20,
+            "display_type": "ranking"
+        },
+        {
+            "trait_type": "XP",
+            "value": 5,
+            "max_value": 21000,
+            "display_type": "ranking"
+        },
+        {
+            "trait_type": "power",
+            "value": "1.05",
+            "display_type": "number",
+            "max_value": 0.5
+        }
+    ]
+}

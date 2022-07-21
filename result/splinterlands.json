@@ -1,0 +1,36 @@
+{
+    "name": "Wood Nymph",
+    "description": "Wood Nymph - Common Reward Edition Monster - Level 1",
+    "external_url": "https://splinterlands.com/?p=card_info&id=C3-90-2A11F5C04G",
+    "image": "https://d36mxiodymuqjm.cloudfront.net/cards_by_level/reward/Wood%20Nymph_lv1.png",
+    "background_color": "112a00",
+    "attributes": [
+        {
+            "trait_type": "type",
+            "value": "Monster"
+        },
+        {
+            "trait_type": "foil",
+            "value": "Standard"
+        },
+        {
+            "trait_type": "edition",
+            "value": "Reward"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "Common"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "level",
+            "value": 1,
+            "max_value": 10
+        },
+        {
+            "display_type": "number",
+            "trait_type": "BCX",
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "image": "https://oc.mypinata.cloud/ipfs/QmQYNRFVj3YFmHpDuYjWjvBwiCYLrZZmDGwJou5wXL6uto/05--UNCOMMON--PantryWalker.jpg",
+    "edition": "Uncommon",
+    "background_color": "060504",
+    "name": "Pantry Walker",
+    "hashed_metadata": "b0bc94a67b5da859a73cfbe4df93538cc945c68ba9291586ea6c5ecf40f8ce4345c1dac79faa0b691f9021fe167c13d70ab1e37672603463b73ff5464fbcd175",
+    "attributes": [
+        {
+            "value": "Uncommon",
+            "trait_type": "Rarity"
+        },
+        {
+            "value": "269:384",
+            "trait_type": "Ratio"
+        },
+        {
+            "trait_type": "TWD Season",
+            "value": "5"
+        },
+        {
+            "value": "2",
+            "trait_type": "TWD Episode"
+        },
+        {
+            "trait_type": "TWD Season Air Date",
+            "value": "Oct 2014 - Mar 2015"
+        },
+        {
+            "value": "Pantry Walker",
+            "trait_type": "Name"
+        },
+        {
+            "value": "Male",
+            "trait_type": "Gender"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Organic"
+        },
+        {
+            "value": "Undead",
+            "trait_type": "State"
+        },
+        {
+            "value": "1",
+            "trait_type": "Walker Count"
+        },
+        {
+            "value": "Georgia",
+            "trait_type": "Origin Location"
+        },
+        {
+            "trait_type": "Miles Traveled as Walker",
+            "value": "1"
+        },
+        {
+            "value": "2",
+            "trait_type": "Pints of Blood Spilled"
+        },
+        {
+            "trait_type": "Age as Human",
+            "value": "Unknown"
+        },
+        {
+            "trait_type": "Cause of Death",
+            "value": "Unknown"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Pants"
+        },
+        {
+            "value": "Leather Boots",
+            "trait_type": "Footwear"
+        },
+        {
+            "trait_type": "Hair Style",
+            "value": "Scant"
+        },
+        {
+            "value": "Glass & Steel",
+            "trait_type": "Display Material"
+        },
+        {
+            "value": "Secure",
+            "trait_type": "Display State"
+        },
+        {
+            "trait_type": "Display Attachment",
+            "value": "Bolted to the Ground"
+        },
+        {
+            "value": "Concealed Pivot Hinged Door",
+            "trait_type": "Display Access Mechanism"
+        },
+        {
+            "trait_type": "Display Alarm System",
+            "value": "Seismic Sensors"
+        },
+        {
+            "trait_type": "Display Lock",
+            "value": "Hidden Keyless Locking System"
+        },
+        {
+            "trait_type": "Display Pressure Control",
+            "value": "No Overpressure"
+        },
+        {
+            "value": "Every 4 Days",
+            "trait_type": "Automatic Feeder"
+        },
+        {
+            "trait_type": "Temperature",
+            "value": "25°C"
+        },
+        {
+            "trait_type": "Contaminants",
+            "value": "Spores"
+        },
+        {
+            "value": "Blood",
+            "trait_type": "Dirt"
+        },
+        {
+            "value": "LED",
+            "trait_type": "Lights Type"
+        },
+        {
+            "trait_type": "Lights Color",
+            "value": "White"
+        },
+        {
+            "value": "3",
+            "trait_type": "Days Without Food"
+        },
+        {
+            "trait_type": "Glass Bullet Resistance",
+            "max_value": 8,
+            "value": 5
+        },
+        {
+            "value": 2,
+            "max_value": 10,
+            "trait_type": "Strength"
+        },
+        {
+            "value": 8,
+            "max_value": 10,
+            "trait_type": "Aggressiveness"
+        },
+        {
+            "value": 0,
+            "trait_type": "Protection",
+            "max_value": 10
+        },
+        {
+            "value": 7,
+            "trait_type": "Decay",
+            "max_value": 10
+        },
+        {
+            "max_value": 10,
+            "trait_type": "Hunger",
+            "value": 9
+        },
+        {
+            "value": 0,
+            "max_value": 10,
+            "trait_type": "Radiation"
+        },
+        {
+            "trait_type": "Container Humidity",
+            "value": 6,
+            "max_value": 10
+        },
+        {
+            "max_value": 10,
+            "value": 4,
+            "trait_type": "Container Air Quality"
+        },
+        {
+            "trait_type": "Container Condensation",
+            "value": 6,
+            "max_value": 10
+        },
+        {
+            "value": 3,
+            "max_value": 10,
+            "trait_type": "Container Cleanliness"
+        },
+        {
+            "value": "Nov 19, 2014 - 04:44 PM",
+            "trait_type": "Turn Date"
+        }
+    ],
+    "animation_url": "https://oc.mypinata.cloud/ipfs/QmQYNRFVj3YFmHpDuYjWjvBwiCYLrZZmDGwJou5wXL6uto/05--UNCOMMON--PantryWalker.mp4",
+    "description": "This is a \"Pantry\" Walker Access Pass. Each Pass is randomly minted and features one of ten different 3D walkers. This stinky, decaying creature was wandering in the flooded basement of a food bank. The Walking Dead © 2022 AMC Film Holdings LLC. All Rights Reserved. ™ and ©2022 AMC and Orange Comet, Inc. All Rights Reserved."
+}
